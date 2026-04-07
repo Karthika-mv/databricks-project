@@ -3,9 +3,6 @@
   {"customer_id": "CUST002", "name": "Jane Smith", "contact": {"email": "jane@example.com"}, "region": "West"},
   {"customer_id": "CUST003", "name": "Mike Ross", "contact": {"email": "mike@example.com"}, "region": "South"},
   {"customer_id": "CUST004", "name": "Rachel Zane", "contact": {"email": "rachel@example.com"}, "region": "West"},
-  {"customer_id": "CUST001", "name": "John Doe", "contact": {"email": "john_new@example.com"}, "region": "North"},
-  {"customer_id": "CUST002", "name": "Jane Smith", "contact": {"email": "jane@example.com"}, "region": "South"},
-  {"customer_id": "CUST003", "name": "Mike Ross", "contact": {"email": "mike_new@example.com"}, "region": "South"},
   {"customer_id": "CUST005", "name": "Harvey Specter", "contact": {"email": "harvey@example.com"}, "region": "East"},
   {"customer_id": "CUST006", "name": "Donna Paulsen", "contact": {"email": "donna@example.com"}, "region": "North"}
 ]
