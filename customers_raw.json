@@ -5,7 +5,6 @@
   {"customer_id": "CUST004", "name": "Rachel Zane", "contact": {"email": "rachel@example.com"}, "region": "West"},
   {"customer_id": "CUST005", "name": "Harvey Specter", "contact": {"email": "harvey@example.com"}, "region": "East"},
   {"customer_id": "CUST006", "name": "Donna Paulsen", "contact": {"email": "donna@example.com"}, "region": "North"},
-  {"customer_id": "CUST006", "name": "Donna Paulsen", "contact": {"email": "donna71@example.com"}, "region": "North"},
   {"customer_id": "CUST007", "name": "Karthika", "contact": {"email": "k@gmail.com"}, "region": "south"},
   {"customer_id": "CUST008", "name": "guest1", "contact": {"email": "gtudc@gmail.com"}, "region": "North"}
 ]
